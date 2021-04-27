@@ -7,10 +7,10 @@ Supports all major functions and concepts of P5 while keeping the speed and flex
 # Install
 
 * Copy the include files to your include directory.
-* Use the starting template given down below.
+* Use the starting Project down below.
 * Enjoy!
 
-# starting template
+# Start Project
 ```cpp
 #include "Window.h"
 
